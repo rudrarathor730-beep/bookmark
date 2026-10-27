@@ -3,7 +3,7 @@
 A responsive, client-side Book Reading List web application developed for **Lecture 11** coursework at JECRC University by **Rudra rathor**.
 
 ## Live Application
-- **Live Deployment**: [tps://ayankhanbebea-lgtm.github.io/book-reading-list-application/](https://ayahtnkhanbebea-lgtm.github.io/book-reading-list-application/)
+- **Live Deployment**: [https://bookmark-ten-gamma.vercel.app/]
 
 ---
 
